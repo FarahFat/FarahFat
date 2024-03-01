@@ -1,9 +1,10 @@
-<h1 align="left">Hey there👋, this's Farah!</h1>
-<h3 align="left">I'm a Data Products' builder, currently working with Analytical & ML-based solutions.</h3>
+Hey there👋
 
-- 👯 Would love to collab on **exploring complex datasets & ML projects.**
+🔗 I'm a Data Products' builder, currently working with Analytical & ML-based solutions.  
+- 🚀 Interested in Product Analytics & Data Product opportunities.  
+- 👩‍💻 Would also love to collab on exploring complex datasets & ML-based projects.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's connect!:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/farahfatimas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/farahfatimas/" height="30" width="40" /></a>
 <a href="https://instagram.com/farauddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farauddin" height="30" width="40" /></a>
