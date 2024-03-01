@@ -1,11 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-3.gif?w=1024)
 <h1 align="left">Hey there👋, this's Farah!</h1>
 <h3 align="left">I'm a Data Products' builder, currently working with Analytical & ML-based solutions.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...](https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d354d11e28ba37b767f933_Data%20points%20(1).gif">
 
 - 👯 Would love to collab on **exploring complex datasets & ML projects.**
-
-- 📫 How to reach me **m200018@ksbl.edu.pk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
